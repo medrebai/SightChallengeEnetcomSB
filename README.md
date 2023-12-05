@@ -3,7 +3,7 @@
 !Welcome Screenshot
 
 Welcome to my project! Here you'll find everything you need to get started.
-![Alt Text](SightChallengeEnetcomSB/welcomepage.png)
+![Alt Text](welcomepage.png)
 
 
 ## Sign Up
