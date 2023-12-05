@@ -106,3 +106,11 @@ This feature allows users to track their consumption of electricity over time. t
 - **Water Consumption by Month**: This graph shows the user's water consumption in cubic meters for the months of January through May. The graph has two lines, one green and one blue, representing different data sets of water consumption.
 
 This graph provides users with a visual representation of their water consumption patterns, helping them understand their usage and make more informed decisions about their water consumption habits.
+
+## Profile Screen
+
+<div>
+  <img src="screenshots/Profilesettings.png" alt="settings" width="300">
+</div>
+
+The user can either signout or change his password via an email.
