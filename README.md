@@ -21,7 +21,6 @@ To get started, sign up by providing your email, username, phone number, and pas
 
 <div>
   <img src="LoginPage.png" alt="Log In Screenshot" width="300">
-  <img src="accounts.png" alt="Account Screenshot" width="300">
 </div>
 
 Once you've signed up, log in using your credentials.
