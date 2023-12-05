@@ -54,7 +54,14 @@ This feature enhances the functionality of the app by providing users with the a
   <img src="screenshots/electricitygraph.png" alt="Electricity consumption garph" width="300">
 </div>
 
-- **Smart Devices**: Below the header, there is a large white box with a green header that reads "Your Smart Devices". Inside the box, there are four icons representing different electronic devices: a light bulb, an air conditioner, a router, and a fan. The light bulb and air conditioner icons are toggled on, while the router and fan icons are toggled off. This allows users to easily control their smart devices from the app.
+ * Consumption Tracking Feature
 
-This feature enhances the functionality of the app by providing users with the ability to manage their electronic devices efficiently.
-- **Efficiency Tips**: Below the management buttons, the app provides users with tips for efficient usage of resources.
+This feature allows users to track their consumption of electricity over time. the data used for this graphs is imported from our firebase datastorage 
+
+ Features
+
+- Electricity Consumption kwh/Month**: This graph, with a green line, shows the user's electricity consumption in kilowatt-hours per month. The graph has a range of 0-200 and 5 data points, showing a linear increase in electricity consumption from January to May.
+
+- Electricity Consumption**: This graph, with a blue line, shows the user's electricity consumption. The graph has a range of 0-180 and 4 data points, showing a non-linear increase in electricity consumption from January to April.
+
+These graphs provide users with a visual representation of their consumption patterns, helping them understand their usage and make more informed decisions about their consumption habits.
