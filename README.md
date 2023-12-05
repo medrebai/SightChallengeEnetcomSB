@@ -36,3 +36,14 @@ After logging in, you'll be directed to the home page.
 - **Electricity Management**: This feature is represented by a yellow lightbulb button. It provides users with the ability to track and control their electricity consumption.
 
 - **Efficiency Tips**: Below the management buttons, the app provides users with tips for efficient usage of resources.
+
+## Electricity Management
+
+<div>
+  <img src="screenshots/electricitycontrole.png" alt="Electricity Management" width="300">
+</div>
+
+- **Smart Devices**: Below the header, there is a large white box with a green header that reads "Your Smart Devices". Inside the box, there are four icons representing different electronic devices: a light bulb, an air conditioner, a router, and a fan. The light bulb and air conditioner icons are toggled on, while the router and fan icons are toggled off. This allows users to easily control their smart devices from the app.
+
+This feature enhances the functionality of the app by providing users with the ability to manage their electronic devices efficiently.
+- **Efficiency Tips**: Below the management buttons, the app provides users with tips for efficient usage of resources.
