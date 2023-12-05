@@ -7,8 +7,8 @@ For water consumption, AQUASPARK provides control over your devices and offers d
 ## Sign Up
 
 <div>
-  <img src="SignUp.png" alt="Sign Up Screenshot" width="400">
-  <img src="account.png" alt="Account Screenshot" width="400">
+  <img src="SignUp.png" alt="Sign Up Screenshot" width="300">
+  <img src="accounts.png" alt="Account Screenshot" width="300">
 </div>
 
 To get started, sign up by providing your email, username, phone number, and password. This ensures both security and reliability, as the app utilizes the Firebase Authentication API.
