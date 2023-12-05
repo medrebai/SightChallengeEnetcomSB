@@ -1,32 +1,28 @@
-# Welcome to My Project
+# Welcome to AQUASPARK - Smart Household Management App
 
-!This is our welcome screen for AQUASPARK a mobile application to controle and take controle of your household consumptions.
-using the application you'll be able to controle all your household's electric devices modes ( working or not), after a delay of being in sleep mode, electronic devices using electricity while in sleep mode will be shut automaticaly.
-for water consumption you can also controle you're devices using the app, while also having information such as waterflow, water quality and flowrate. this data is collected through sensors integrated in our smarthouse prototype.
-you'll also receive a notification in case of a leak of water.
+![Welcome Page](welcomepage.png)
 
+Welcome to AQUASPARK, a mobile application designed to efficiently control and monitor your household consumptions. Manage the modes of all your electronic devices, schedule sleep modes, and automatically shut down devices consuming electricity during sleep mode.
 
-Welcome to my project! Here you'll find everything you need to get started.
-![Alt Text](welcomepage.png)
-
+For water consumption, AQUASPARK provides control over your devices and offers detailed information such as water flow, quality, and flow rate. This data is collected through sensors integrated into our smart house prototype. Additionally, the app notifies you in case of water leaks.
 
 ## Sign Up
 
-!Sign Up Screenshot
+![Sign Up Screenshot](signup.png)
 
-To get started, you'll need to sign up. Here's how you can do it:
+To get started, sign up by following these simple steps:
 1. Step 1
 2. Step 2
 3. Step 3
 
 ## Log In
 
-!Log In Screenshot
+![Log In Screenshot](login.png)
 
-Once you've signed up, you can log in using your credentials.
+Once you've signed up, log in using your credentials.
 
 ## Home Page
 
-!Home Page Screenshot
+![Home Page Screenshot](homepage.png)
 
-After logging in, you'll be taken to the home page. From here, you can navigate to different parts of the project.
+After logging in, you'll be directed to the home page.
