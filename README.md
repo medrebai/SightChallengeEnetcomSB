@@ -13,15 +13,15 @@ For water consumption, AQUASPARK provides control over your devices and offers d
 
 To get started, sign up by providing your email, username, phone number, and password. This ensures both security and reliability, as the app utilizes the Firebase Authentication API.
 
-1. Step 1
-2. Step 2
-3. Step 3
+1. entering the credentials
+2. email verfication
+3. succesfully added to our firebase database
 
 ## Log In
 
 <div>
-  <img src="LogIn.png" alt="Log In Screenshot" width="400">
-  <img src="account.png" alt="Account Screenshot" width="400">
+  <img src="LoginPage.png" alt="Log In Screenshot" width="300">
+  <img src="accounts.png" alt="Account Screenshot" width="300">
 </div>
 
 Once you've signed up, log in using your credentials.
@@ -29,7 +29,7 @@ Once you've signed up, log in using your credentials.
 ## Home Page
 
 <div>
-  <img src="HomePage.png" alt="Home Page Screenshot" width="800">
+  <img src="HomePage.png" alt="Home Page Screenshot" width="300">
 </div>
 
 After logging in, you'll be directed to the home page.
