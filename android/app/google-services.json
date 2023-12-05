@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "157234641217",
+    "firebase_url": "https://sightfinal-default-rtdb.firebaseio.com",
+    "project_id": "sightfinal",
+    "storage_bucket": "sightfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157234641217:android:fd9869577162f0ac8cc9c0",
+        "android_client_info": {
+          "package_name": "com.example.sightfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_rr6nfvuZPtFPkoRRS6b1YmjZFiru3vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

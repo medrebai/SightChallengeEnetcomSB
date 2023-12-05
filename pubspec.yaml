@@ -1,0 +1,42 @@
+name: sightfinal
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  firebase_auth: ^4.15.0
+  firebase_core: ^2.24.0
+  firebase_database: ^10.3.6
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.2.4
+  google_fonts: ^6.1.0
+  syncfusion_flutter_charts: ^23.2.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets :
+    - lib/icons/menu.png
+    - lib/icons/light-bulb.png
+    - lib/icons/air-conditioner.png
+    - lib/icons/smart-tv.png
+    - lib/icons/fan.png
+    - lib/icons/waterdrop.jpg
+    - lib/icons/google.png
+    - lib/icons/welcome.png
+    - lib/icons/electricity_image.png
+    - lib/icons/dishwasher.png
+    - lib/icons/water-heater.png
+    - lib/icons/irrigation-system.png
+    - lib/icons/water-pump.png
+
+
+
