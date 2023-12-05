@@ -1,4 +1,4 @@
-# In this file We will explain the ISIS files in both folders Power Management System and Water Management System
+# In this file We will explain the ISIS and arduino files in both folders Power Management System and Water Management System
 
 In our project, we have implemented a series of components to manage and control the power supply to our devices:
 
