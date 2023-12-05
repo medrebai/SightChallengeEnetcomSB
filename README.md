@@ -65,3 +65,44 @@ This feature allows users to track their consumption of electricity over time. t
 - Electricity Consumption**: This graph, with a blue line, shows the user's electricity consumption. The graph has a range of 0-180 and 4 data points, showing a non-linear increase in electricity consumption from January to April.
 
 These graphs provide users with a visual representation of their consumption patterns, helping them understand their usage and make more informed decisions about their consumption habits.
+
+## Water Management
+
+<div>
+  <img src="screenshots/waterconsumtion.png" alt="Water comsumption Management" width="300">
+  <img src="screenshots/watercontrole.png" alt="Water comsumption Management" width="300">
+
+</div>
+
+ Water Management Feature
+
+This feature allows users to manage their water consumption.
+
+ Features
+
+- **Flow Rate**: This feature displays the current flow rate of the user's water supply, this data is collected through water flow sensor and sent to our firebase database through the ESP32 board.
+
+- **Water Quality**: This feature provides information about the quality of the user's water supply, turbidity sensor is the responsible for this data, which sent aswell through our firebase database
+
+- **Consumption Information**: The app informs the user if their consumption is above average, helping them understand their usage patterns.
+
+- **Water Devices**: The app displays a list of the user's water devices, allowing them to manage each device individually.
+
+This feature enhances the functionality of the app by providing users with detailed information about their water consumption and the ability to manage their water devices.
+
+
+- ## Water Consumption statistics
+
+<div>
+  <img src="screenshots/watergraph.png" alt="water consumption garph" width="300">
+</div>
+
+ * Consumption Tracking Feature
+
+This feature allows users to track their consumption of electricity over time. the data used for this graphs is imported from our firebase datastorage 
+
+ Features
+
+- **Water Consumption by Month**: This graph shows the user's water consumption in cubic meters for the months of January through May. The graph has two lines, one green and one blue, representing different data sets of water consumption.
+
+This graph provides users with a visual representation of their water consumption patterns, helping them understand their usage and make more informed decisions about their water consumption habits.
